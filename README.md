@@ -1,5 +1,5 @@
 # Prepayment Amortization Automation Script
-This repository contains a Python script designed to automate the generation of accounting entries for prepaid items based on a provided schedule. This script addresses the technical assessment challenge from Backbone Pte. Ltd.
+This repository contains a Python script designed to automate the generation of accounting entries for prepaid items based on a provided schedule. 
 
 ## Table of Contents
 1. Project Description
@@ -118,4 +118,3 @@ Command-Line Arguments: Enhance user interaction by utilizing Python's argparse 
 
 Robust Date Parsing for Month Columns: While current dynamic identification works for MMM-YY, adding more flexible regex or date parsing logic could handle variations like MM-YYYY or MMM YYYY if expected in future inputs.
 
-# backbone-prepayment-assessment
